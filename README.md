@@ -26,6 +26,9 @@ Contributions are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Glass shelf and table top thickness](https://syntaxflow.io/glass/table-shelf/) — thickness and deflection for a span and a load, with load tables.
 - [Aquarium glass thickness](https://syntaxflow.io/glass/aquarium-glass-thickness/) — front, sides and base of a rimless or braced tank.
 - [Mirror weight](https://syntaxflow.io/glass/mirror-weight/) — rectangular, round or oval mirrors, with frame and load per hanger.
+- [Glass load calculator](https://syntaxflow.io/glass/load-capacity/) — the uniform load a monolithic pane on four edges carries, design strength in the form of EN 16612.
+- [Glass deflection calculator](https://syntaxflow.io/glass/deflection-calculator/) — centre deflection of a pane under a uniform load, with the plate coefficients.
+- [PVB interlayer weight](https://syntaxflow.io/glass/pvb-interlayer-weight/) — weight of the interlayer and of a laminated pane, from the makers’ density.
 
 ## Cutting optimisation
 
@@ -33,15 +36,19 @@ Contributions are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Glass cutting software compared](https://syntaxflow.io/glass/cutting-software/) — what the free and paid optimisers publish, with the source of every figure.
 - [Bar cutting optimiser](https://syntaxflow.io/metal/linear-cutting-optimiser/) — cut lengths nested into stock bars, with kerf.
 - [Panel cutting optimiser](https://syntaxflow.io/wood/panel-cutting-optimiser/) — sheet goods with grain and kerf.
+- [Cutting labels](https://syntaxflow.io/glass/cutting-labels/) — one label per pane in cutting order, with a QR code, from a cutting plan.
 - [CutList Optimizer](https://www.cutlistoptimizer.com/) — panel cutting layouts in the browser.
 - [optiCutter](https://www.opticutter.com/) — sheet and linear cutting, with a free plan.
 
 ## Windows and the building envelope
 
 - [Window U-value (Uw)](https://syntaxflow.io/windows/u-value/) — glass, frame and spacer, EN ISO 10077-1.
+- [Glass U-value (Ug)](https://syntaxflow.io/glass/u-value/) — double and triple glazing, gas and low-E coating, EN 673.
 - [Wall and roof U-value](https://syntaxflow.io/envelope/u-value/) — layers and conductivities, EN ISO 6946.
 - [Interstitial condensation (Glaser)](https://syntaxflow.io/envelope/condensation/) — the Glaser method of EN ISO 13788.
 - [Heat loss calculator](https://syntaxflow.io/envelope/heat-loss/) — fabric and ventilation losses, EN 12831.
+- [Thermal bridges](https://syntaxflow.io/envelope/thermal-bridges/) — linear thermal transmittance of common junctions and their share of the heat loss.
+- [Radiator size calculator](https://syntaxflow.io/envelope/radiator-size-calculator/) — radiator output at the flow temperature of a heat pump.
 - [Sash weight](https://syntaxflow.io/windows/sash-weight/) — weight of a sash, hinge load and counterweights.
 - [Engineering ToolBox](https://www.engineeringtoolbox.com/) — reference tables and small calculators for materials and building physics.
 
@@ -60,17 +67,24 @@ Contributions are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [TMT bar weight chart](https://syntaxflow.io/metal/weight/tmt-bar-weight-chart/) — kg per metre and per 12 m rod, the D²/162 rule.
 - [Rebar sizes](https://syntaxflow.io/metal/weight/rebar-sizes/) — US bars #3 to #18, diameter, area and weight.
 - [Bend allowance](https://syntaxflow.io/metal/bend-allowance/) — flat length of bent sheet with the K-factor of DIN 6935.
+- [Steel flat bar weight](https://syntaxflow.io/metal/weight/steel-flat-bar/) — 12 × 3 to 150 × 12 mm, kg per metre and per 6 m length.
+- [Steel equal angle weight](https://syntaxflow.io/metal/weight/steel-angle/) — 20 × 20 × 3 to 150 × 150 × 15 mm, with the section area.
+- [Steel round tube weight](https://syntaxflow.io/metal/weight/steel-round-tube/) — 21.3 to 219.1 mm outside diameter.
+- [Steel square tube weight](https://syntaxflow.io/metal/weight/steel-square-tube/) — SHS from 20 × 20 to 100 × 100 mm.
+- [Steel plate weight](https://syntaxflow.io/metal/weight/steel-plate/) — 0.5 to 25 mm in kg/m² and per whole sheet.
+- [Sheet metal gauge chart](https://syntaxflow.io/metal/sheet-metal-gauge-chart/) — gauge numbers in mm and inches for steel, galvanised, aluminium and stainless.
 
 ## Wood
 
 - [Board feet calculator](https://syntaxflow.io/wood/board-feet/) — board feet and cubic metres of a timber list.
 - [Lumber sizes](https://syntaxflow.io/wood/lumber-sizes/) — nominal and actual sizes.
 - [Stair calculator](https://syntaxflow.io/wood/stair-calculator/) — rise, going and stringer length.
+- [Sheet weight](https://syntaxflow.io/wood/sheet-weight/) — plywood, MDF, chipboard and OSB per sheet and per m², with the makers’ densities.
 
 ## Open data and formulas
 
 - [syntaxflow-formulas](https://github.com/elamhuingenieros/syntaxflow-formulas) — the formulas behind the glass, metal and timber calculators, as a small MIT-licensed JavaScript library with tests.
-- [SyntaxFlow trade tables (Zenodo)](https://doi.org/10.5281/zenodo.23959493) — glass weight, steel bar weight, bricks per m² and timber volume as CSV, CC BY 4.0.
+- [SyntaxFlow trade tables (Zenodo)](https://doi.org/10.5281/zenodo.23959492) — glass weight, steel bar, flat bar, angle and tube weights, bricks per m² and timber volume as CSV, CC BY 4.0 (the DOI leads to the latest version).
 
 ## License
 
