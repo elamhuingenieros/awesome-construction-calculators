@@ -54,6 +54,7 @@ Contributions are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Concrete, masonry and areas
 
+- [Calculation Hub concrete volume calculator](https://calculation-hub.com/construction/concrete-volume) — estimate concrete volume for rectangular or circular shapes with a waste allowance.
 - [Concrete calculator (Calculator.net)](https://www.calculator.net/concrete-calculator.html) — volume of slabs, footings and columns.
 - [Square footage calculator (Calculator.net)](https://www.calculator.net/square-footage-calculator.html) — areas of common shapes.
 - [BTU calculator (Calculator.net)](https://www.calculator.net/btu-calculator.html) — heating and cooling needs of a room.
