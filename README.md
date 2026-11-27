@@ -60,6 +60,7 @@ Contributions are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Blocklayer](https://www.blocklayer.com/) — calculators for stairs, roofs, framing and blockwork.
 - [Square footage and area](https://syntaxflow.io/envelope/square-footage-calculator/) — rooms and walls in m² and ft².
 - [Roof pitch calculator](https://syntaxflow.io/envelope/roof-pitch-calculator/) — pitch in degrees, per cent and rise over run.
+- [BuildingsMath](https://buildingsmath.com/) — a set of browser calculators for the building trades: concrete, rebar, mortar, roof pitch, lumber and insulation, with the formula and worked examples shown on each page.
 
 ## Metal
 
